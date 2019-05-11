@@ -19,3 +19,18 @@
 <p>
 	Should not be performed push (merge) to the master branch without consensus of both teams
 </p>
+<br/>
+
+<h1>Instructions</h1>
+<p>
+	The project is based on the creation of a messaging system with image, text and video sending options.
+</p>
+<p>
+	There should be a way to register, with a name, email and password.
+</p>
+<p>
+	It should be possible to create chat rooms.
+</p>
+<p>
+	It should be possible to create invitations for friends to join the rooms
+</p>
